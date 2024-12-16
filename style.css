@@ -1,10 +1,10 @@
 h1{
-    color: red;
+    color: rgb(34, 3, 3);
     text-align: center;
     margin: 20%;
     align-items: center;
     justify-content: center;
 }
 body {
-background-color: aquamarine;
+background-color: rgb(93, 87, 199);
 }
